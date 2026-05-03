@@ -9,7 +9,7 @@ from custom websites to microservices architectures, REST APIs, and LLM-powered 
 
 I don't just write features — I think about architecture, performance, and the long-term shape of a system.
 
-🌐 [Portfolio](https://yassine-aitsidibrahim.space) &nbsp;·&nbsp; ✍️ [Medium](https://yassineaitsidibrahim.medium.com)
+🌐 [Portfolio](https://yassine-aitsidibrahim.space) &nbsp;·&nbsp; ✍️ [Medium](https://yassineaitsidibrahim.medium.com) , 📩 yassineaitsidibrahim@gmail.com
 
 ---
 
